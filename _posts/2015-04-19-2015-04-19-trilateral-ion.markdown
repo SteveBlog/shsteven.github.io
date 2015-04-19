@@ -1,0 +1,11 @@
+---
+layout: post
+title: Trilateration
+date: 2015-04-19 11:05
+---
+
+algorithm that can calculate centroid A (aka gravity center, geometric center, center of mass) from the figure where circles T1,T2,T3,T4,T5,..,Tn intersect AND length of line R from centroid to farthest corner of mentioned figure
+
+http://gis.stackexchange.com/questions/40660/trilateration-algorithm-for-n-amount-of-points
+
+http://gis.stackexchange.com/questions/40660/trilateration-algorithm-for-n-amount-of-points
