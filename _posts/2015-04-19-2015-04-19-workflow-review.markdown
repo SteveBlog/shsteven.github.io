@@ -1,0 +1,9 @@
+---
+layout: post
+title: Workflow Review
+date: 2015-04-19 11:18
+---
+
+Workflow could use some fixes: workflows can sometimes get “stuck” (forcing you to restart the app); some combinations of actions feel a bit rough and unfinished, such as the ability to preview Markdown in RTF; the search feature in the sidebar is buggy; and, workflows can't sync across the iPhone and iPad. Weinstein and his team are aware of these problems, and, according to them, they will be fixed with upcoming updates. Because Workflow relies on native iOS 8 features so much, many of the bugs that I encountered in my tests weren't bugs of the app itself – they had been left by Apple.
+
+[Link](http://www.macstories.net/reviews/workflow-review-integrated-automation-for-ios-8/)
