@@ -1,0 +1,6 @@
+title: new post
+date: 2015-04-19_011505
+
+All you need to do is create a bookmarklet in your browser and start clipping pages and creating posts. It works in a similar fashion to the Press This Wordpress bookmarklet (I lifted their Javascript, so thanks to the Wordpress team).
+
+http://www.justkez.com/jekyll-post-creator/
