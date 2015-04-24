@@ -5,4 +5,4 @@ date: 2015-04-19 12:15
 link: https://github.com/Alamofire/Alamofire
 ---
 
-Elegant HTTP Networking in Swift
+Elegant HTTP Networking in Swift. Posted via email.
